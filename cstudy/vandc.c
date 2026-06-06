@@ -27,6 +27,7 @@ weight = 75.5 ;
 double height =180.5,weight;
 weight =75.5;
 */
+/*
 #include <stdio.h>
 
 #define PI 3.14
@@ -45,3 +46,6 @@ int main()
 
     return 0;
 }
+*/
+
+
